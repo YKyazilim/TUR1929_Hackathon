@@ -1,0 +1,3 @@
+0 jeep
+1 sedan
+2 kamyon
